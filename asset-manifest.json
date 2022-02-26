@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-mesto-auth/static/css/main.f6a88be6.css",
+    "main.js": "/react-mesto-auth/static/js/main.e2d54655.js",
+    "static/js/787.11150396.chunk.js": "/react-mesto-auth/static/js/787.11150396.chunk.js",
+    "static/media/inter-900.woff": "/react-mesto-auth/static/media/inter-900.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-500.woff": "/react-mesto-auth/static/media/Inter-500.9053572c46aeb4b16caa.woff",
+    "static/media/inter-400.woff": "/react-mesto-auth/static/media/inter-400.8c206db99195777c6769.woff",
+    "static/media/inter-900.woff2": "/react-mesto-auth/static/media/inter-900.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-500.woff2": "/react-mesto-auth/static/media/Inter-500.293fd13dbca5a3e450ef.woff2",
+    "static/media/inter-400.woff2": "/react-mesto-auth/static/media/inter-400.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo-header.svg": "/react-mesto-auth/static/media/logo-header.9acae8482e5b5b17160c46db4e2718a2.svg",
+    "static/media/button-icon-like.svg": "/react-mesto-auth/static/media/button-icon-like.1ad06e85f169668a1f36.svg",
+    "index.html": "/react-mesto-auth/index.html",
+    "static/media/button-icon-delete.svg": "/react-mesto-auth/static/media/button-icon-delete.e3c42771bff3aaa52f76.svg",
+    "static/media/button-icon-like-active.svg": "/react-mesto-auth/static/media/button-icon-like-active.dd6a61e81552be95f4b7.svg",
+    "static/media/button-icon-edit.svg": "/react-mesto-auth/static/media/button-icon-edit.6c7bf05444b9793fdf6e.svg",
+    "static/media/popup-icon-close.svg": "/react-mesto-auth/static/media/popup-icon-close.039f1f5203f653b4bacd.svg",
+    "static/media/button-icon-add.svg": "/react-mesto-auth/static/media/button-icon-add.bed8c136e13907f5eefb.svg",
+    "main.f6a88be6.css.map": "/react-mesto-auth/static/css/main.f6a88be6.css.map",
+    "main.e2d54655.js.map": "/react-mesto-auth/static/js/main.e2d54655.js.map",
+    "787.11150396.chunk.js.map": "/react-mesto-auth/static/js/787.11150396.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a88be6.css",
+    "static/js/main.e2d54655.js"
+  ]
+}
